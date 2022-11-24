@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "セッションとRailsでの対策について"
 emoji: "🍪"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["rails"]
