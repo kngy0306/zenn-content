@@ -3,7 +3,7 @@ title: "GitHub Actionsで別リポジトリ(private)のファイル情報を取�
 emoji: "🗂"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["githubactions"]
-published: false
+published: true
 ---
 
 # 概要
